@@ -1,0 +1,1 @@
+Ziehe deine neue Waffe aus dem Inventar auf die deine Kampf-Ausrüstung. Je besser deine Waffe ist, desto mehr Schaden kannst du bei jedem Angriff machen.

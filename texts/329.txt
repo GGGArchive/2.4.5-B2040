@@ -1,0 +1,1 @@
+Klick auf OK! Der Kampf läuft automatisch ab, basierend auf den Attributen und der Ausrüstung der Teilnehmer!
